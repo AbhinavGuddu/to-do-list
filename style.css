@@ -35,8 +35,9 @@ p.kio{
     padding: 10px;
     border-radius: 10px 10px 10px 10px;
     border: none;
-    font-size: 20px;
-    font-family: cursive;
+    font-size: 20px;    
+    font-family:verdana;
+    font-weight:400;
 }
 
 .input::placeholder{
