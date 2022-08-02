@@ -7,8 +7,9 @@ body{
 p.kio{
     text-decoration: none;
     text-decoration-color:darkolivegreen;
-    font-family:cursive;
-    font-size: 20px;
+    font-family:verdana;
+    font-weight:600;
+    font-size: 28px;
     color: red;
     text-align: center;
 }
@@ -50,7 +51,8 @@ p.kio{
 .list li{
     list-style-type: none;
     padding: 20px;
-    font-family: cursive;
+    font-family:verdana;
+    font-weight:400;
     border-top: double;
     border-color: darkgray;
     position: relative;
